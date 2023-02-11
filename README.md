@@ -25,13 +25,14 @@ Projeto Cordel desenvolvido durante o curso de HTML e CSS.<br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
+  - Efeito Parallax
 - Git e Github
 
 ## 💻 Projeto
 
-O projeto Cordel é um site 
+O projeto Cordel é um site com poema famoso do Milton Duarte usando o efeito parallax.
 
-- [Visite o projeto online](https://sweydmanaf.github.io/projeto-android/)
+- [Visite o projeto online](https://sweydmanaf.github.io/projeto-cordel/)
 
 ## :memo: Licença
 [Visitar o repósitorio principal.](https://github.com/SweydManaf/curso-html-css-cev) <br>
